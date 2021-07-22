@@ -1,1 +1,1 @@
-[Link to Windows build](https://www.dropbox.com/s/wf3fe0jiqteuedy/WindowsNoEditor.7z?dl=0)
+For some reason there is no map in this project, to play the game use [link to Windows build](https://www.dropbox.com/s/wf3fe0jiqteuedy/WindowsNoEditor.7z?dl=0)
